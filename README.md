@@ -6,11 +6,11 @@ This is an ongoing work that attempts to continue [robertsamples](https://github
 
 ## Todo
 
-[ ] Share an example printer.cfg.
+- [ ] Share an example printer.cfg.
 
-[ ] Create a 4040 MGN12 guide for the Y linear rails that can be used without removing deck panels.
+- [ ] Create a 4040 MGN12 guide for the Y linear rails that can be used without removing deck panels.
 
-[ ] Update CAD with Dragon Burner v8 models.
+- [ ] Update CAD with Dragon Burner v8 models.
 
 ## Changelogs
 
